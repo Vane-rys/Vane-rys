@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1>Vanessa Reyes - Diseñadora UX/UI y Desarrolladora Web</h1>
 
-<!--
-**Vane-rys/Vane-rys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👤 **Vanessa Reyes**
 
-Here are some ideas to get you started:
+Soy una diseñadora UX/UI apasionada por la creación de soluciones innovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 **Ubicación**
+
+Región Metropolitana, Chile
+
+💼 **Ocupación Actual**
+
+Me dedico al diseño de interfaces y experiencia de usuario, específicamente al diseño de aplicaciones y dashboards corporativos, enfocada en mejorar la experiencia del usuario a través de un diseño intuitivo y funcional.
+
+🎓 **Formación**
+
+- Diseño
+- Especialización en Diseño UX/UI
+- Desarrollo web
+- Gestión de proyectos
+
+⭐️ **Experiencia**
+
+He trabajado en varios proyectos enfocados en:
+- Industria minera
+- Aplicaciones corporativas
+- Diseño de reportes para Power BI
+  
+📱 **Contacto**
+
+Correo electrónico: v.catalina.reyes@gmail.com
+
+LinkedIn: [Vanessa Reyes](https://www.linkedin.com/in/vanessareyes-uxui/)
